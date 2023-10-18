@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Springboard_SDC_29_02_Space_Travel_React/static/css/main.a6277e53.css",
+    "main.js": "/Springboard_SDC_29_02_Space_Travel_React/static/js/main.ba76c835.js",
+    "index.html": "/Springboard_SDC_29_02_Space_Travel_React/index.html",
+    "main.a6277e53.css.map": "/Springboard_SDC_29_02_Space_Travel_React/static/css/main.a6277e53.css.map",
+    "main.ba76c835.js.map": "/Springboard_SDC_29_02_Space_Travel_React/static/js/main.ba76c835.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6277e53.css",
+    "static/js/main.ba76c835.js"
+  ]
+}
